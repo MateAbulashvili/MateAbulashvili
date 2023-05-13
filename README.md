@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+
 <h1 align="center">Hi 👋, I'm Mate</h1>
 <h3 align="center">A passionate backend developer from Georgia</h3>
 - 🔭 I’m currently working on [Online Casino Project](https://misobet33.com/)
