@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abulashvilimate@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FnQMLecSOOm4o7VA3K0AAiVZ-JUzkJQY/view?usp=sharing](https://drive.google.com/file/d/1FnQMLecSOOm4o7VA3K0AAiVZ-JUzkJQY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FnQMLecSOOm4o7VA3K0AAiVZ-JUzkJQY/view?usp=sharing](https://drive.google.com/file/d/1HyC0RjLAYddWtvWbY5FrQjgBGpZHdWnU/view?usp=sharing)
 
 - ⚡ Fun fact **I love fixing bugs**
 
